@@ -1,0 +1,42 @@
+body {
+    background-image: url("../assets/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.principal {
+    width: 33vw;
+    height: 70vh;
+}
+
+#label {
+    color: white;
+    text-align: center;
+}
+
+#lock {
+    height: 3em;
+    width: 4em;
+}
+
+#white {
+    background-color: white;
+    border-radius: 2px;
+}
+
+#input {
+    background-color: gray;
+    height: 25vh;
+    padding: 2vh;
+    gap: 2vh;
+}
+
+input {
+    margin-bottom: 2vh;
+}
+
+#media {
+    background-color: black;
+    width: 90%;
+}
