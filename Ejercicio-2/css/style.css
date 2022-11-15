@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+.contact {
+    color: rgb(96,173,231);
+}
+
+.principal {
+    width: 90vw;
+}
+
+i {
+    height: 1em;
+    width: 1em;
+    font-size:xx-large;
+    color: rgb(96,173,231);
+}
+
+input {
+    width: 50vw;
+}
+
+#background {
+    background-color: rgb(245,245,245);
+}
+
+#big {
+    height: 28vh;
+}
+
+#submit {
+    width: 5vw;
+}
+
