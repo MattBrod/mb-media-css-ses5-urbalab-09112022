@@ -1,4 +1,4 @@
-# Bootcamp Angular Retos 11-12
+# Bootcamp Angular Retos Bootstrap 1-4
 
 MATEUSZ BRODZIK
 
